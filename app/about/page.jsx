@@ -90,7 +90,7 @@ export default function About() {
                             {/* Profile Image */}
                             <div className="relative h-[450px] overflow-hidden">
                                 <Image
-                                    src="/munawar_photo.png"
+                                    src="/munawar_photo1.png"
                                     fill
                                     style={{objectFit: "cover"}}
                                     alt="Munawar - Interior Designer"
